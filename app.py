@@ -25,7 +25,7 @@ if selected == "Home":
         st.header("You are landing on my web-app")
         st.subheader("Hello, I am Ronesh Tarenia from the department of Electronics and Telecommunication")
         st.write("I love coding")
-        st_lottie(lottie_coding, height=300, key="coding")
+        st_lottie(lottie_coding, height=600, key="coding")
 
 #---Image selected---        
 if selected == "Images":
